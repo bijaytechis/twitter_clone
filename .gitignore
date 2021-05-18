@@ -12,3 +12,4 @@ venv.bak/
 # Others
 __pycache__
 .DS_Store
+.idea
